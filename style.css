@@ -27,6 +27,7 @@ overflow: hidden;
 .navbar a:hover {
 
     background-color: hsl(0, 0%, 10%);
+    color: gold;
 }
 
 
